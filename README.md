@@ -38,4 +38,11 @@ This project demonstrates a machine learning pipeline to predict customer churn 
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` — input dataset
 - `churn_prediction.ipynb` — full notebook
 - `churn_prediction_summary.pdf` — business report
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 - `README.md` — this file
